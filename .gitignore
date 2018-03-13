@@ -10,3 +10,4 @@ out/
 .settings
 bin/
 temp/
+.DS_Store
